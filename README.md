@@ -24,7 +24,7 @@ Die Customer Journey Map hat uns geholfen zu verstehen, aus welchen Bestandteile
 
 ![Image](Bilder/Flow_Chart.png)
 
-Um die Prototypen einfacher Bauen und planen zu können, haben wir ein FlowChart erstellt. Dadurch konnten wir feststellen, aus wie vielen Seiten unsere App bestehen wird und welche Funktionalitäten damit verbunden sind.
+Um die Prototypen einfacher planen und bauen zu können, haben wir ein Flow Chart erstellt. Dadurch konnten wir feststellen, aus wie vielen Seiten unsere App bestehen wird und welche Funktionalitäten damit verbunden sind.
 
 ## Low Fidelity Prototyp
 
