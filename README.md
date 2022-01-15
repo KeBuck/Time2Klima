@@ -11,15 +11,20 @@ Wir wollten eine App entwickeln, welche dem Klimawandel im Schwarzwald entgegenw
 
 ![Image](Bilder/Storyboard.png)
 
+Als Erstes haben wir ein Storyboard erstellt, um uns einen Überblick zu verschaffen, wie die App grob funktionieren und in den Alltag integriert werden könnte.
+
 ![Image](Bilder/Persona1.png)
 ![Image](Bilder/Persona2.png)
 
+Als Nächstes haben wir uns über unsere Zielgruppe Gedanken gemacht. Dadurch wurde uns noch einmal klarer, für wen und warum unsere App interessant sein könnte.
 
 ![Image](Bilder/Customer Journey.png)
 
+Die Customer Journey Map hat uns geholfen zu verstehen, aus welchen Bestandteilen unsere App besteht und was wir alles dafür brauchen. Ebenfalls konnten wir dadurch den emotionalen Zustand des Users darstellen, den er beim Nutzen unserer App durchläuft.
 
 ![Image](Bilder/Flow_Chart.png)
 
+Um die Prototypen einfacher Bauen und planen zu können, haben wir ein FlowChart erstellt. Dadurch konnten wir feststellen, aus wie vielen Seiten unsere App bestehen wird und welche Funktionalitäten damit verbunden sind.
 
 ## Low Fidelity Prototyp
 
@@ -28,9 +33,6 @@ Link Low Fidelity Prototyp:
 
 
 ## High Fidelity Prototyp
-
-![Image](Bilder/Anmelden.png) ![Image](Bilder/Landkarte.png) ![Image](Bilder/Gruppe.png)
-
 
 
 Anmelden                       |  Landkarte                      | Gruppe
