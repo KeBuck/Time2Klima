@@ -29,11 +29,11 @@ Link Low Fidelity Prototyp:
 
 ## High Fidelity Prototyp
 
-![Image](Bilder/Anmelden.png)
+![Image](Bilder/Anmelden.png) ![Image](Bilder/Landkarte.png) ![Image](Bilder/Gruppe.png)
 
-![Image](Bilder/Landkarte.png)
 
-![Image](Bilder/Gruppe.png)
+
+
 
 
 
