@@ -11,14 +11,14 @@ Wir wollten eine App entwickeln, welche dem Klimawandel im Schwarzwald entgegenw
 
 ![Image](Bilder/Storyboard.png)
 
-![Image](Bilder/unsplash_yisZonvqh54.png)
-![Image](Bilder/Mask Group.png)
+![Image](Bilder/Persona1.png)
+![Image](Bilder/Persona2.png)
 
 
-![Image](Bilder/Group 1 (5).png)
+![Image](Bilder/Customer Journey.png)
 
 
-![Image](Bilder/Flow Chart.png)
+![Image](Bilder/Flow_Chart.png)
 
 
 ## Low Fidelity Prototyp
@@ -29,11 +29,11 @@ Link Low Fidelity Prototyp:
 
 ## High Fidelity Prototyp
 
-![Image](Bilder/01_Anmelden_Registrieren.png)
+![Image](Bilder/Anmelden.png)
 
-![Image](Bilder/03_Landkarte.png)
+![Image](Bilder/Landkarte.png)
 
-![Image](Bilder/06_Gruppe Seite.png)
+![Image](Bilder/Gruppe.png)
 
 
 
