@@ -9,7 +9,7 @@ Wir wollten eine App entwickeln, welche dem Klimawandel im Schwarzwald entgegenw
 
 ## Konzeptionsphase
 
-![Image](Bilder/Storyboard_Kerstin Buck_Lukas Muschal (3).png)
+![Image](Bilder/Storyboard.png)
 
 ![Image](Bilder/unsplash_yisZonvqh54.png)
 ![Image](Bilder/Mask Group.png)
