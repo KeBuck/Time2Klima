@@ -1,6 +1,6 @@
 # Time2Klima
 
-![Image](Thumbnail Tag der Medien.png)
+![Image](Bilder/Thumbnail Tag der Medien.png)
 
 ## Projekt Beschreibung
 Für unser Projekt in dem Fach Konzeption hatten wir folgende Idee 
