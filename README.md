@@ -33,7 +33,9 @@ Link Low Fidelity Prototyp:
 
 
 
-
+Anmelden                       |  Landkarte                      | Gruppe
+:-----------------------------:|:-------------------------------:|:----------------------------:
+![Image](Bilder/Anmelden.png)  |  ![Image](Bilder/Landkarte.png) | ![Image](Bilder/Gruppe.png)
 
 
 
