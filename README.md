@@ -19,8 +19,7 @@ Persona 1                      |  Persona 2                      |
 ![Image](Bilder/Persona1.png)  |  ![Image](Bilder/Persona2.png)  |
 
 
-
-Als Nächstes haben wir uns über unsere Zielgruppe Gedanken gemacht. Dadurch wurde uns noch einmal klarer, für wen und warum unsere App interessant sein könnte.
+Als Nächstes haben wir uns über unsere Zielgruppe Gedanken gemacht. Dadurch wurde uns noch einmal klarer, für wen und warum unsere App interessant sein könnte. Wir haben uns dazu entschieden, dass unsere App an jüngere Leute gerichtet sein soll.
 
 ![Image](Bilder/Customer Journey.png)
 
