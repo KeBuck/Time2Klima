@@ -13,8 +13,12 @@ Wir wollten eine App entwickeln, welche dem Klimawandel im Schwarzwald entgegenw
 
 Als Erstes haben wir ein Storyboard erstellt, um uns einen Überblick zu verschaffen, wie die App grob funktionieren und in den Alltag integriert werden könnte.
 
-![Image](Bilder/Persona1.png)
-![Image](Bilder/Persona2.png)
+
+Persona 1                      |  Persona 2                      | 
+:-----------------------------:|:-------------------------------:|
+![Image](Bilder/Persona1.png)  |  ![Image](Bilder/Persona2.png)  |
+
+
 
 Als Nächstes haben wir uns über unsere Zielgruppe Gedanken gemacht. Dadurch wurde uns noch einmal klarer, für wen und warum unsere App interessant sein könnte.
 
@@ -41,6 +45,8 @@ Link Low Fidelity Prototyp:
 
 
 ## High Fidelity Prototyp
+
+Als letzten Schritt haben wir uns mit dem High Fidelity Prototyp beschäftigt. Als Grundlage diente der alte Prototyp. Durch den High Fidelity Prototyp wird genau gezeigt, wie die App aussieht und wie sie funktioniert.
 
 
 Anmelden                       |  Landkarte                      | Gruppe
