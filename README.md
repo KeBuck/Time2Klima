@@ -28,6 +28,11 @@ Um die Prototypen einfacher planen und bauen zu können, haben wir ein Flow Char
 
 ## Low Fidelity Prototyp
 
+Anmelden                                       |  Landkarte                         | Gruppe
+:---------------------------------------------:|:----------------------------------:|:-------------------------------------:
+![Image](Bilder/01_Anmelden_Registrieren.png)  |  ![Image](Bilder/03_Landkarte.png) | ![Image](Bilder/06_Gruppe Seite.png)
+
+
 Link Low Fidelity Prototyp:
 
 
