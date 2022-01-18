@@ -39,7 +39,7 @@ Anmelden                                       |  Landkarte                     
 ![Image](Bilder/01_Anmelden_Registrieren.png)  |  ![Image](Bilder/03_Landkarte.png) | ![Image](Bilder/06_Gruppe Seite.png)
 
 
-Link Low Fidelity Prototyp:
+Link Low Fidelity Prototyp: [Link](https://www.figma.com/proto/c7HcMhPISbGhoCWDnq5o2c/Konzeption-Phase?node-id=126%3A1963&scaling=min-zoom&page-id=126%3A3&starting-point-node-id=126%3A1963)
 
 
 
@@ -54,5 +54,3 @@ Anmelden                       |  Landkarte                      | Gruppe
 
 
 
-
-[Link](url) and ![Image](src)
