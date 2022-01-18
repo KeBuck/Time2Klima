@@ -21,11 +21,11 @@ Persona 1                      |  Persona 2                      |
 
 Als Nächstes haben wir uns über unsere Zielgruppe Gedanken gemacht. Dadurch wurde uns noch einmal klarer, für wen und warum unsere App interessant sein könnte. Wir haben uns dazu entschieden, dass unsere App an jüngere Leute gerichtet sein soll.
 
-![Image](Bilder/Customer Journey.png)
+![Image](Bilder/Frame 1.png)
 
 Die Customer Journey Map hat uns geholfen zu verstehen, aus welchen Bestandteilen unsere App besteht und was wir alles dafür brauchen. Ebenfalls konnten wir dadurch den emotionalen Zustand des Users darstellen, den er beim Nutzen unserer App durchläuft.
 
-![Image](Bilder/Frame 1.png)
+![Image](Bilder/Flow_Chart.png)
 
 Um die Prototypen einfacher planen und bauen zu können, haben wir ein Flow Chart erstellt. Dadurch konnten wir feststellen, aus wie vielen Seiten unsere App bestehen wird und welche Funktionalitäten damit verbunden sind.
 
