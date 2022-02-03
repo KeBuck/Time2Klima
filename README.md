@@ -69,3 +69,9 @@ Link High Fidelity Prototyp: [Link](https://www.figma.com/proto/c7HcMhPISbGhoCWD
 ## Zukünftige Ausbaustufen
 
 Unsere App könnten wir durch folgende Punkte noch ausbauen. Der nächste Schritt wäre die tatsächliche Umsetzung der App also, dass sie programmiert und dadurch lauffähig wird. Dabei könnten wir die App durch verschiedene Tests an Probanden in ihrer Usability verbessern. Beispielsweise durch Eyetracking. Wenn die App dann aus unserer Sicht perfekt wäre, könnte man sie verschiedenen Organisationen, Firmen oder interessierten Personen anbieten. Dabei können die User zu Ihrer Meinung befragt und dadurch gegebenenfalls die App noch einmal nachbearbeitet werden. Außerdem müssten wir die App noch ordentlich vermarkten, damit ihre Bekanntheit steigt. Dabei würde sich zeigen, ob die App ein Erfolg wird oder ob sie kein Interesse weckt.
+
+### Verfasser:
+
+Kerstin Buck | Matrikelnummer: 266201
+
+Lukas Muschal | Matrikelnummer: 262264
