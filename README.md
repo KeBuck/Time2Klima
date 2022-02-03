@@ -21,9 +21,9 @@ Um eine passende Idee für das Thema zu finden, haben wir uns zunächst persönl
 Als Erstes haben wir ein Storyboard erstellt, um uns einen Überblick zu verschaffen, wie die App grob funktionieren und in den Alltag integriert werden könnte.
 
 
-![Image](Bilder/Persona_1b.png)
+![Image](Bilder/Personas_1b.png)
 
-![Image](Bilder/Persona_2b.png)
+![Image](Bilder/Personas_2b.png)
 
 
 Als Nächstes haben wir uns über unsere Zielgruppe Gedanken gemacht. Dadurch wurde uns noch einmal klarer, für wen und warum unsere App interessant sein könnte. Wir haben uns dazu entschieden, dass unsere App an jüngere Leute gerichtet sein soll. 
@@ -62,4 +62,6 @@ Anmelden                       |  Landkarte                      | Gruppe
 ![Image](Bilder/Anmelden.png)  |  ![Image](Bilder/Landkarte.png) | ![Image](Bilder/Gruppe.png)
 
 
+## Zukünftige Ausbaustufen
 
+Unsere App könnten wir durch folgende Punkte noch ausbauen. Der nächste Schritt wäre die tatsächliche Umsetzung der App also, dass sie programmiert und dadurch lauffähig wird. Dabei könnten wir die App durch verschiedene Tests an Probanden in ihrer Usability verbessern. Beispielsweise durch Eyetracking. Wenn die App dann aus unserer Sicht perfekt wäre, könnte man sie verschiedenen Organisationen, Firmen oder interessierten Personen anbieten. Dabei können die User zu Ihrer Meinung befragt und dadurch gegebenenfalls die App noch einmal nachbearbeitet werden. Außerdem müssten wir die App noch ordentlich vermarkten, damit ihre Bekanntheit steigt. Dabei würde sich zeigen, ob die App ein Erfolg wird oder ob sie kein Interesse weckt.
