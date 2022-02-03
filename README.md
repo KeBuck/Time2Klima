@@ -21,9 +21,9 @@ Um eine passende Idee für das Thema zu finden, haben wir uns zunächst persönl
 Als Erstes haben wir ein Storyboard erstellt, um uns einen Überblick zu verschaffen, wie die App grob funktionieren und in den Alltag integriert werden könnte.
 
 
-![Image](Bilder/Persona 1b.png)
+![Image](Bilder/Persona_1b.png)
 
-![Image](Bilder/Persona 2b.png)
+![Image](Bilder/Persona_2b.png)
 
 
 Als Nächstes haben wir uns über unsere Zielgruppe Gedanken gemacht. Dadurch wurde uns noch einmal klarer, für wen und warum unsere App interessant sein könnte. Wir haben uns dazu entschieden, dass unsere App an jüngere Leute gerichtet sein soll. 
