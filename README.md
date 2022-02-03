@@ -23,6 +23,7 @@ Als Erstes haben wir ein Storyboard erstellt, um uns einen Überblick zu verscha
 
 ![Image](Bilder/Personas_1b.png)
 
+
 ![Image](Bilder/Personas_2b.png)
 
 
